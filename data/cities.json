@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "13e4",
+      "cityName": "Herrera del Duque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-08T22:27:37.552Z",
+      "notes": "",
+      "position": {
+        "lat": "39.26628442213066",
+        "lng": "-4.987792968750001"
+      }
+    }
+  ]
+}
